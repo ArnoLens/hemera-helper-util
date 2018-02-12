@@ -1,2 +1,2 @@
-# hemera-helper-util
-A window info utility for Hemera
+# theiana-window-manager
+A window manager utility for Theiana
