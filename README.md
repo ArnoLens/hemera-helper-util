@@ -1,2 +1,1 @@
-# theiana-window-manager
-A window manager utility for Theiana
+g++ main.cpp -lX11 -lXcomposite -lXrender
